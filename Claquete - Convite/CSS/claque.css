@@ -1,0 +1,128 @@
+             .box_topo{
+			     width: 1505px;
+				 height: 100px;
+				 background-color: black;
+				 margin-bottom: 10px;
+				 border-width: 20px;
+				 margin-left: 50px;
+				 color: white;
+				 text-align: center;
+				 font-style: italic; 
+				 font-weight: bold;
+				 font-size: 60;
+				 padding-top: 20px;
+			 }	 
+			 .box_titulo{
+			     width: 1490px; 
+				 height: 150px;
+				 background-color: black;
+				 color: white;
+				 text-align: left;
+				 font-style: italic; 
+				 font-weight: bold;
+				 font-size: 60;
+				 padding-top: 20px;
+				 margin-left: 50px;
+				 border-top-style: dashed;
+				 border-width: 20px;
+				 border-top-color: white;
+				 padding-left: 10px;
+		    }
+             .box_producao{
+			     width: 1490px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 50;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 padding-left: 10px;
+				 margin-left: 50px;
+		     }
+			 .box_t_producao{
+			     width: 1500px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 50;
+				 padding-top: 10px;
+				 margin-left: 50px;
+				 text-align: left;
+				 font-style: normal; 
+				 font-weight: bold;
+				 padding-top: 50px;
+			 }
+			 .box_direcao{
+			     width: 1490px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 50;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 padding-left: 10px;
+				 margin-left: 50px;
+		     }
+			 .box_t_direcao{
+			     width: 1490px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 80px;
+				 padding-top: 10px;
+				 padding-right: 10px;
+				 margin-left: 50px;
+				 text-align: center;
+				 font-style: normal; 
+				 font-weight: bold;
+				 padding-top: 25px;
+			 }
+             .box_locacao{
+			     width: 1490px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 50;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 padding-left: 10px;
+				 margin-left: 50px;
+		     }
+			 .box_t_locacao{
+			     width: 1500px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 60;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 margin-left: 50px;
+				 text-align: center;
+				 font-style: normal; 
+				 padding-top: 25px;
+             }
+             .box_data{
+			     width: 1490px; 
+				 height: 180px;
+				 background-color: black;
+				 color: white;
+				 font-size: 50;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 padding-left: 10px;
+				 margin-left: 50px;
+		     }
+			 .box_t_data{
+			     width: 1500 px; 
+				 height: 80 px;
+				 background-color: black;
+				 color: white;
+				 font-size: 60;
+				 font-weight: bold;
+				 padding-top: 10px;
+				 margin-left: 50px;
+				 text-align: center;
+				 font-style: italic; 
+				 font-family: Chilanka;
+				 padding-top: 25px;
+             }	
